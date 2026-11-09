@@ -35,7 +35,7 @@ The objective is to get three marks in a horizontal, vertical, or diagonal row t
 
 1. Clone or download this repository.
 2. Open the project folder in VS Code.
-3. Open "index.html" in your browser.
+3. Open "front.html" in your browser.
 
 👩‍💻 Author
 
